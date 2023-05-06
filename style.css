@@ -27,11 +27,14 @@ header{
     padding-left: 5px;
 }
 
-.navbar{
+.navbar ul{
+    display: flex;
+}
+
+
+
+.navbar ul li{
+    text-decoration: none;
+    display: flex;
     padding-right: 15px;
 }
-
-.navbar th{
-    
-}
-
