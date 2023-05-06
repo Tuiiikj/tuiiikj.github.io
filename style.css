@@ -10,7 +10,6 @@ header{
     padding: 0px;
     margin: 0px;
     justify-content: space-between;
-    flex-direction: row;
 }
 
 .img-header{
@@ -32,8 +31,6 @@ header{
 .navbar ul{
     display: flex;
 }
-
-
 
 .navbar ul li{
     text-decoration: none;
