@@ -36,4 +36,10 @@ header{
     text-decoration: none;
     display: flex;
     padding-right: 15px;
+    color: black;
+}
+
+.navbero {
+    color: black;
+    text-decoration: none;
 }
